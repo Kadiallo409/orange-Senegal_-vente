@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218541520200",
+    "project_id": "orangevente-440fb",
+    "storage_bucket": "orangevente-440fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218541520200:android:6ec58de479d2c922f12f7d",
+        "android_client_info": {
+          "package_name": "com.example.orange_vente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218541520200-b3tf356bm8khk23trbepa4ccnrik113k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXmCVol1S7gLp1s37fjB-BRxQA56R4nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218541520200-b3tf356bm8khk23trbepa4ccnrik113k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

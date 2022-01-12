@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Orange_Vente</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Description">Orange Vente est une application mobile<br> destinee a tous les clients Orange </br> <br> de pouvoir commander leurs liveboxs et de recevoir </br>leur livraison le plus rapidement possible</string>
+    <string name="label1">Home</string>
+    <string name="label2">Cart</string>
+    <string name="label3">Orders</string>
+    <string name="label4">Account</string>
+    <string name="listLivebox">Voici nos liveboxs</string>
+    <string name="nom_produit">productName</string>
+    <string name="description">Description</string>
+    <string name="productprice">productPrice</string>
+    <string name="promotion">product_promotion</string>
+    <string name="descript">Desccription</string>
+    <string name="prix">Prix</string>
+    <string name="promotion1">Promotion</string>
+    <string name="login_welcome">Welcome Back,</string>
+    <string name="login_welcome_text">Log In!</string>
+    <string name="bg_img_desc">Image View</string>
+    <string name="signup_welcome_hello">Hello,</string>
+    <string name="signup_welcome_text">Sign Up</string>
+    <string name="title_activity_signup2">Signup2Activity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
